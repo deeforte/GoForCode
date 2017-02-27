@@ -1,0 +1,2 @@
+# GoForCode
+prework for goforcode
